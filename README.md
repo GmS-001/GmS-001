@@ -25,7 +25,6 @@ As a final-year Data Science & Analytics student, I'm passionate about building 
 
 ### AI/ML & Data Science
 <p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
@@ -50,9 +49,9 @@ As a final-year Data Science & Analytics student, I'm passionate about building 
 
 | Project                               | Description                                                                                                                              | Links                                                                     |
 | ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| **Autonomous AI Data Analyst Agent** | An AI agent that performs end-to-end data analysis from natural language, featuring a LangGraph-powered self-correction loop and a secure Docker executor. | [Repository](https://github.com/GmS-001/Data-Analyst)                     |
-| **RAG-Based Virtual Teaching Assistant** | A web-accessible AI assistant built by scraping IIT Madras course content, providing context-aware answers via a Gemini-powered RAG pipeline. | [Repository](https://github.com/GmS-001/Virtual-Assistant-TDS-Madras)    |
-| **Kaggle - Purchase Value Prediction** | An end-to-end predictive modeling project involving extensive EDA, feature engineering, and ensemble methods (XGBoost, LightGBM) on a large e-commerce dataset. | [Repository](https://github.com/GmS-001/YOUR-KAGGLE-REPO-LINK)            |
+| **Autonomous AI Data Analyst Agent** | An AI agent that performs end-to-end data analysis from natural language, featuring a LangGraph-powered self-correction loop and a secure Docker executor. | 
+| **RAG-Based Virtual Teaching Assistant** | A web-accessible AI assistant built by scraping IIT Madras course content, providing context-aware answers via a Gemini-powered RAG pipeline. | 
+| **Kaggle - Purchase Value Prediction** | An end-to-end predictive modeling project involving extensive EDA, feature engineering, and ensemble methods (XGBoost, LightGBM) on a large e-commerce dataset. |  
 
 ---
 
