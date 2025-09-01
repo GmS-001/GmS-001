@@ -8,7 +8,7 @@ As a final-year Data Science & Analytics student, I'm passionate about building 
 
 - 🔭 I’m currently building autonomous agents that can reason, plan, and self-correct.
 - 🌱 I’m continuously learning about advanced agentic architectures and stateful graph-based systems.
-- 💬 Ask me about **Generative AI, LangChain/LangGraph, RAG, or building ML models**.
+- 💬 Ask me about **Generative AI, LangChain, LangGraph, LangSmith, RAG, or building AI Agents and ML models**.
 
 ---
 
