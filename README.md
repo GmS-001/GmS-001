@@ -50,7 +50,7 @@ As a final-year Data Science & Analytics student, I'm passionate about building 
 | Project                                       | Description                                                                                                                              | Links                                                                                                  |
 | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | **Autonomous AI Data Analyst Agent** | An AI agent that performs end-to-end data analysis from natural language, featuring a LangGraph-powered self-correction loop and a secure Docker executor. | [Repository](https://github.com/GmS-001/Data-Analyst) |
-| **RAG-Based Virtual Teaching Assistant** | A web-accessible AI assistant built by scraping IIT Madras course content, providing context-aware answers via a Gemini-powered RAG pipeline. |[Repository](https://github.com/GmS-001/Virtual-Assistant-TDS-Madras) |
+| **RAG-Based Virtual Teaching Assistant** | A web-accessible AI assistant built by scraping IIT Madras course content, providing context-aware answers via a Gemini-powered RAG pipeline. |[Repository](https://github.com/GmS-001/Rag-Based-ChatBot-TDS) |
 | **Kaggle - Purchase Value Prediction** | An end-to-end predictive modeling project involving extensive EDA, feature engineering, and ensemble methods (XGBoost, LightGBM) on a large e-commerce dataset. | [Repository](https://github.com/GmS-001/Engage2Value-Kaggle-Competition) |
 
 ---
