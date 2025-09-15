@@ -6,7 +6,7 @@
 
 As a final-year Data Science & Analytics student, I'm passionate about building autonomous AI systems and solving complex problems with data. My focus is on the end-to-end development of intelligent applications, from data acquisition and agentic workflow design to model deployment.
 
-- 🔭 I’m currently building autonomous agents that can reason, plan, and self-correct.
+- 🔭 I’m currently building autonomous agents and fine tuning LLMs.
 - 🌱 I’m continuously learning about advanced agentic architectures and stateful graph-based systems.
 - 💬 Ask me about **Generative AI, LangChain, LangGraph, LangSmith, RAG, or building AI Agents and ML models**.
 
